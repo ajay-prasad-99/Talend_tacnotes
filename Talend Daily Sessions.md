@@ -1,4 +1,4 @@
-## SESSION 1 - 11/01/2023 
+## SESSION 1 
 
 TAC architecture / Talend data fabric
 
@@ -47,7 +47,7 @@ Locking jobs opt2 :
    (Functional SSO) => Time on issues.
 
 -----------------------------------------------------------------------
-## SESSION 2 - 12/01/2023 
+## SESSION 2 
 
 TAC => Admin team, Dev team, Operations team .
 >Activity, monitor, Console, (AMC) UI
@@ -99,7 +99,7 @@ NEXUS: ARTICRAFT REPOSITORY
 > TAC restart
 
 -----------------------------------------------------------------------
-## SESSION 3 - 13/01/2023
+## SESSION 3 
 
 JOB conductor => Execution task 
 JOB 4j level => warn / debug (Detail Error)
@@ -124,7 +124,7 @@ concurrent to named users => licenses update (based on develop)
 
 --------------------------------------------------------------------------------------------------
 
-## SESSION 4 - 17/01/2023
+## SESSION 4
 
 Architecture similar across all the project
 just little bit changes on NEXUS (repo) or (storage), whether that is AWS/ on premise
@@ -170,7 +170,7 @@ PUTTY SESSION (SSH)
 
 -----------------------------------------------------------------------
 
-## SESSION 5 - 18/01/2023 
+## SESSION 5 
 
 SSO => face login issue
 7.2, 7.3 => LDAP account
@@ -191,7 +191,7 @@ ISSUE:
 > GIT Token suggest to regenerate
 
 -----------------------------------------------------------------------
-## SESSION 6 - 19/01/2023
+## SESSION 6 
 
 MENU => CMD line
 
@@ -226,7 +226,7 @@ ps -ef | grep itac
 
 --------------------------------------------------------------------
 
-## SESSION 7th  23-01-2023
+## SESSION 7th 
 
 GIT (Enterprise)
 
@@ -399,7 +399,7 @@ Oneidm=> management / ticketing / ID tool
 Manager approves, once approved ...ticket'll be created.
 
 ----------------------------------
-## SESSION 8th 24-01-2023
+## SESSION 8th 
 
 Before updation => Take backup of => current TAC, NEXUS, Directory.
 
